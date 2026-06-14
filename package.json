@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "browser-cookies": "^1.2.0",
-    "esbuild": "^0.25.0",
+    "esbuild": "^0.28.1",
     "tweetnacl": "^1.0.3"
   },
   "devDependencies": {
